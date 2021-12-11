@@ -1,0 +1,88 @@
+//text_1 - VoiceGaze_#0
+				"Navigate to page 1, paragraph 1, line 2", "Fix \"underear\" to \"underwear\".",
+                "Navigate to page 1, paragraph 2, line 6", "Replace \"back\" to \"front\".",
+                "Navigate to page 1, paragraph 3, line 1",  "Add \"father\" after \"mother\".",
+                "Navigate to page 2, paragraph 5, line 3", "Fix \"siple\" to \"supple\".",
+                "Navigate to page 2, paragraph 6, line 2","Copy from \"You\" to \"is\".",
+                "Navigate to page 2, paragraph 7, line 1","Paste after \"another\".",            
+                "Navigate to page 2, paragraph 9, line 2","Delete from \"he\" to \"met\"."
+				
+ //text_2 - VoiceMouse_#0
+                
+                "Navigate to page 1, paragraph 1, line 3-4","Delete from \"The\" to \"revenge\".",
+                "Navigate to page 1, paragraph 2, line 6","Replace \"dry\" to \"wet\".",
+                "Navigate to page 1, paragraph 3, line 1","Fix \"behnd\" to \"bend\".",
+                "Navigate to page 2, paragraph 5, line 3","Add \"princess\" after \"Cinderella\".",
+                "Navigate to page 2, paragraph 6, line 1-2","Copy from \"Opening\" to \"all\".",
+                "Navigate to page 2, paragraph 7, line 1","Paste before \"page\".",
+                "Navigate to page 2, paragraph 8, line 2","Fix \"fially\" to \"finally\".",
+
+   //text_3 - MouseAndKeyboard_#0
+
+                "Navigate to page 1, paragraph 1, line 5","Copy from \"how\" to \"been\".",
+                "Navigate to page 1, paragraph 2, line 1","Paste after \"Family\".",
+                "Navigate to page 1, paragraph 2, line 1","Fix \"slpt\" to \"slept\".",
+                "Navigate to page 1, paragraph 3, line 3","Replace \"book\" to \"pen\".",
+                "Navigate to page 2, paragraph 5, line 5","Fix \"woan\" to \"won\".",
+                "Navigate to page 2, paragraph 7, line 4-5","Delete from \"I\" to \"profile\".",
+                "Navigate to page 2, paragraph 9, line 3","Add \"smile\" after \"love\".",
+
+   //text_4 - VoiceGaze_#1
+
+                "Navigate to page 1, paragraph 1, line 4","Fix \"grwing\" to \"growing\".",
+                "Navigate to page 1, paragraph 2, line 1","Delete from \"She\" to \"day\".",
+                "Navigate to page 1, paragraph 3, line 3-4","Copy from \"And\" to \"like\".",
+                "Navigate to page 1, paragraph 4, line 1","Paste after \"I\".",
+                "Navigate to page 2, paragraph 5, line 3","Add \"plant\" after \"flower\".",
+                "Navigate to page 2, paragraph 6, line 2","Replace \"word\" to \"letter\".",
+                "Navigate to page 2, paragraph 7, line 3","Fix \"detal\" to \"desal\".",
+
+//text_5 - VoiceMouse_#1
+
+                "Navigate to page 1, paragraph 1, line 1","Copy from \"bundle\" to \"feet\".",
+                "Navigate to page 1, paragraph 2, line 1","Paste after \"too\".",
+                "Navigate to page 1, paragraph 3, line 2","Fix \"reain\" to \"remain\".",
+                "Navigate to page 1, paragraph 4, line 4","Replace \"teacher\" to \"student\".",
+                "Navigate to page 2, paragraph 5, line 3","Fix \"hopig\" to \"hoping\".",
+                "Navigate to page 2, paragraph 6, line 2","Add \"banana\" after \"dream\".",
+                "Navigate to page 2, paragraph 7, line 1-10","Delete from \"Dorita\" to \"sky\".",
+
+   //text_6 - MouseAndKeyboard_#1
+
+                "Navigate to page 1, paragraph 1, line 4","Fix \"undewater\" to \"underwater\".",
+                "Navigate to page 1, paragraph 2, line 2","Add \"else\" after \"something\".",
+                "Navigate to page 1, paragraph 3, line 1-2","Delete from \"Perhaps\" to \"pull\".",
+                "Navigate to page 2, paragraph 4, line 4","Fix \"smled\" to \"smiled\".",
+                "Navigate to page 2, paragraph 5, line 10","Copy from \"must\" to \"bed\".",
+                "Navigate to page 2, paragraph 6, line 1","Paste before \"Slowly\".",
+                "Navigate to page 2, paragraph 6, line 1","Replace \"began\" to \"start\".",
+				
+    //text_7 - VoiceGaze_#2
+
+                "Navigate to page 1, paragraph 1, line 3","Fix \"imossibe\" to \"impossible\".",
+                "Navigate to page 1, paragraph 2, line 3","Fix \"cetre\" to \"center\".",
+                "Navigate to page 1, paragraph 3, line 2","Copy from \"angelic\" to \"golden\".",
+                "Navigate to page 1, paragraph 4, line 1","Paste after \"wake\".",
+                "Navigate to page 2, paragraph 5, line 3","Add \"care\" after \"skin\".",
+                "Navigate to page 2, paragraph 6, line 3-4","Delete from \"Someone\" to \"leak\".",
+                "Navigate to page 2, paragraph 7, line 2","Replace \"little\" to \"big\".",
+				
+    //text_8 - VoiceMouse_#2
+
+                "Navigate to page 1, paragraph 1, line 7","Add \"night\" after \"light\".",
+                "Navigate to page 1, paragraph 2, line 3-4","Delete from \"Water\" to \"down\".",
+                "Navigate to page 1, paragraph 3, line 3","Fix \"granmother\" to \"grandmother\".",
+                "Navigate to page 2, paragraph 4, line 4","Fix \"roks\" to \"rows\".",                
+                "Navigate to page 2, paragraph 5, line 4","Replace \"voice\" to \"sound\".",
+                "Navigate to page 2, paragraph 6, line 1-3","Copy from \"Water\" to \"side\".",
+                "Navigate to page 2, paragraph 7, line 1","Paste before \"light\".",
+    
+//text_9 - MouseAndKeyboard_#2
+
+                "Navigate to page 1, paragraph 1, line 3","Fix \"bck\" to \"back\".",
+                "Navigate to page 1, paragraph 2, line 4","Fix \"surace\" to \"subrace\".",
+                "Navigate to page 1, paragraph 3, line 3","Copy from \"Magic\" to \"that\".",
+                "Navigate to page 1, paragraph 5, line 1","Paste before \"need\".",
+                "Navigate to page 2, paragraph 6, line 1","Replace \"Last\" to \"First\".",
+                "Navigate to page 2, paragraph 7, line 3-4","Delete from \"But\" to \"word\".",
+                "Navigate to page 2, paragraph 8, line 5","Add \"workout\" after \"train\".",

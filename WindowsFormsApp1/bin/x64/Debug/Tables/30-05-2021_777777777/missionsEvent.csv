@@ -1,0 +1,29 @@
+ExperimentID,MissionID,TextNumber,SystemName,UserID,Event,Timestamp,ActualResult,MissionText,TotalTime,Verdict
+0_VoiceGaze_777777777_30-05-2021,VoiceGaze_#0_0,0,VoiceGaze,777777777,StartMission,2021-05-30 14:28:57,,Navigate to page 1 paragraph 1 line 1
+0_VoiceGaze_777777777_30-05-2021,VoiceGaze_#0_0,0,VoiceGaze,777777777,EndMission,2021-05-30 14:29:07,,Navigate to page 1 paragraph 1 line 1,10,Pass
+0_VoiceGaze_777777777_30-05-2021,VoiceGaze_#0_1,0,VoiceGaze,777777777,StartMission,2021-05-30 14:29:07,,fix "batery" to "battery" page 1 paragraph 1 line 1 
+0_VoiceGaze_777777777_30-05-2021,VoiceGaze_#0_1,0,VoiceGaze,777777777,EndMission,2021-05-30 14:30:01,,fix "batery" to "battery" page 1 paragraph 1 line 1 ,54,Fail
+0_VoiceGaze_777777777_30-05-2021,VoiceGaze_#0_2,0,VoiceGaze,777777777,StartMission,2021-05-30 14:30:02,,Navigate to page 1 paragraph 2 line 9 
+0_VoiceGaze_777777777_30-05-2021,VoiceGaze_#0_2,0,VoiceGaze,777777777,EndMission,2021-05-30 14:30:02,,Navigate to page 1 paragraph 2 line 9 ,0,Pass
+0_VoiceGaze_777777777_30-05-2021,VoiceGaze_#0_3,0,VoiceGaze,777777777,StartMission,2021-05-30 14:30:02,,Add "great" after "first" page 1 paragraph 2 line 9 
+0_VoiceGaze_777777777_30-05-2021,VoiceGaze_#0_3,0,VoiceGaze,777777777,EndMission,2021-05-30 14:30:02,,Add "great" after "first" page 1 paragraph 2 line 9 ,0,Fail
+0_VoiceGaze_777777777_30-05-2021,VoiceGaze_#0_4,0,VoiceGaze,777777777,StartMission,2021-05-30 14:30:03,,Navigate to page 1 paragraph 3 line 19
+0_VoiceGaze_777777777_30-05-2021,VoiceGaze_#0_4,0,VoiceGaze,777777777,EndMission,2021-05-30 14:30:03,,Navigate to page 1 paragraph 3 line 19,0,Pass
+0_VoiceGaze_777777777_30-05-2021,VoiceGaze_#0_5,0,VoiceGaze,777777777,StartMission,2021-05-30 14:30:03,,Copy from "down" to "sand" page 1 paragraph 3 line 19
+0_VoiceGaze_777777777_30-05-2021,VoiceGaze_#0_5,0,VoiceGaze,777777777,EndMission,2021-05-30 14:30:03,,Copy from "down" to "sand" page 1 paragraph 3 line 19,0,Fail
+0_VoiceGaze_777777777_30-05-2021,VoiceGaze_#0_6,0,VoiceGaze,777777777,StartMission,2021-05-30 14:30:03,,Navigate to page 1 paragraph 3 line 20
+0_VoiceGaze_777777777_30-05-2021,VoiceGaze_#0_6,0,VoiceGaze,777777777,EndMission,2021-05-30 14:30:04,,Navigate to page 1 paragraph 3 line 20,1,Pass
+0_VoiceGaze_777777777_30-05-2021,VoiceGaze_#0_7,0,VoiceGaze,777777777,StartMission,2021-05-30 14:30:04,,Paste after "ring" page 1 paragraph 3 line 20
+0_VoiceGaze_777777777_30-05-2021,VoiceGaze_#0_7,0,VoiceGaze,777777777,EndMission,2021-05-30 14:30:04,,Paste after "ring" page 1 paragraph 3 line 20,0,Fail
+0_VoiceGaze_777777777_30-05-2021,VoiceGaze_#0_8,0,VoiceGaze,777777777,StartMission,2021-05-30 14:30:04,,Navigate to page 2 paragraph 5 line 31
+0_VoiceGaze_777777777_30-05-2021,VoiceGaze_#0_8,0,VoiceGaze,777777777,EndMission,2021-05-30 14:30:04,,Navigate to page 2 paragraph 5 line 31,0,Pass
+0_VoiceGaze_777777777_30-05-2021,VoiceGaze_#0_9,0,VoiceGaze,777777777,StartMission,2021-05-30 14:30:04,,Replace "garden" to "balcony"  page 2 paragraph 5 line 31
+0_VoiceGaze_777777777_30-05-2021,VoiceGaze_#0_9,0,VoiceGaze,777777777,EndMission,2021-05-30 14:30:05,,Replace "garden" to "balcony"  page 2 paragraph 5 line 31,1,Fail
+0_VoiceGaze_777777777_30-05-2021,VoiceGaze_#0_10,0,VoiceGaze,777777777,StartMission,2021-05-30 14:30:05,,Navigate to page 1 paragrpah 2 line 13
+0_VoiceGaze_777777777_30-05-2021,VoiceGaze_#0_10,0,VoiceGaze,777777777,EndMission,2021-05-30 14:30:05,,Navigate to page 1 paragrpah 2 line 13,0,Pass
+0_VoiceGaze_777777777_30-05-2021,VoiceGaze_#0_11,0,VoiceGaze,777777777,StartMission,2021-05-30 14:30:05,,fix "slueg" to "slug" page 1 paragrpah 2 line 13
+0_VoiceGaze_777777777_30-05-2021,VoiceGaze_#0_11,0,VoiceGaze,777777777,EndMission,2021-05-30 14:30:05,,fix "slueg" to "slug" page 1 paragrpah 2 line 13,0,Fail
+0_VoiceGaze_777777777_30-05-2021,VoiceGaze_#0_12,0,VoiceGaze,777777777,StartMission,2021-05-30 14:30:05,,Navigate to page 2 paragraph 4 line 22-23
+0_VoiceGaze_777777777_30-05-2021,VoiceGaze_#0_12,0,VoiceGaze,777777777,EndMission,2021-05-30 14:30:06,,Navigate to page 2 paragraph 4 line 22-23,1,Pass
+0_VoiceGaze_777777777_30-05-2021,VoiceGaze_#0_13,0,VoiceGaze,777777777,StartMission,2021-05-30 14:30:06,,Delete from "Water" to "beginning" page 2 paragraph 4 line 22-23
+0_VoiceGaze_777777777_30-05-2021,VoiceGaze_#0_13,0,VoiceGaze,777777777,EndMission,2021-05-30 14:30:06,,Delete from "Water" to "beginning" page 2 paragraph 4 line 22-23,0,Fail

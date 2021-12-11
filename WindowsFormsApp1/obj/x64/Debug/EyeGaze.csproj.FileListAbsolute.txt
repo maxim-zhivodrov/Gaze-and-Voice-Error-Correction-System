@@ -1,0 +1,1434 @@
+C:\Users\bmami\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\bmami\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\bmami\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+C:\Users\bmami\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+C:\Users\bmami\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+C:\Users\bmami\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\bmami\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\bmami\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csprojAssemblyReference.cache
+C:\Users\bmami\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\bmami\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csproj.GenerateResource.cache
+C:\Users\bmami\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csproj.CopyComplete
+C:\Users\bmami\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+C:\Users\bmami\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+C:\Users\bmami\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\asprise-ocr-api.dll
+C:\Users\bmami\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\asprise-ocr-dll-bundle-32.dll
+C:\Users\bmami\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\asprise-ocr-dll-bundle-64.dll
+C:\Users\bmami\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\asprise-ocr-api.pdb
+C:\Users\bmami\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\asprise-ocr-api.xml
+C:\Users\bmami\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.OcrSampleForm.resources
+C:\Users\bmami\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\NUnit3.TestAdapter.dll
+C:\Users\bmami\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\NUnit3.TestAdapter.pdb
+C:\Users\bmami\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\nunit.engine.dll
+C:\Users\bmami\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\nunit.engine.api.dll
+C:\Users\bmami\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\nunit.framework.dll
+C:\Users\bmami\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\nunit.framework.pdb
+C:\Users\bmami\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\nunit.framework.xml
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\bin\x64\Debug\NUnit3.TestAdapter.dll
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\bin\x64\Debug\NUnit3.TestAdapter.pdb
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\bin\x64\Debug\nunit.engine.dll
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\bin\x64\Debug\nunit.engine.api.dll
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\bin\x64\Debug\NHunspell.dll
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\bin\x64\Debug\nunit.framework.dll
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\bin\x64\Debug\NHunspell.pdb
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\bin\x64\Debug\nunit.framework.pdb
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\bin\x64\Debug\nunit.framework.xml
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csprojAssemblyReference.cache
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csproj.GenerateResource.cache
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csproj.CopyComplete
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\bin\x64\Debug\NUnit3.TestAdapter.dll
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\bin\x64\Debug\NUnit3.TestAdapter.pdb
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\bin\x64\Debug\nunit.engine.dll
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\bin\x64\Debug\nunit.engine.api.dll
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.core.dll
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\bin\x64\Debug\NHunspell.dll
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\bin\x64\Debug\nunit.framework.dll
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\bin\x64\Debug\NHunspell.pdb
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\bin\x64\Debug\nunit.framework.pdb
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\bin\x64\Debug\nunit.framework.xml
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csproj.GenerateResource.cache
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csproj.CopyComplete
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\bin\x64\Debug\log4net.dll
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\bin\x64\Debug\log4net.xml
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\bin\x64\Debug\log4net.dll
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\bin\x64\Debug\log4net.xml
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\bin\x64\Debug\NAudio.dll
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.dll
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\bin\x64\Debug\NAudio.xml
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\bin\x64\Debug\NAudio.dll
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\bin\x64\Debug\NAudio.xml
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\obj\x64\Debug\EyeGaze.Properties.Resources.resources
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\obj\x64\Debug\EyeGaze.Properties.Resources.resources
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\bin\x64\Debug\Castle.Core.dll
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\bin\x64\Debug\Moq.dll
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\bin\x64\Debug\Castle.Core.xml
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\bin\x64\Debug\Moq.xml
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\bin\x64\Debug\Castle.Core.dll
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\bin\x64\Debug\Moq.dll
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\bin\x64\Debug\Castle.Core.xml
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\bin\x64\Debug\Moq.xml
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\obj\x64\Debug\EyeGaze.popUp.resources
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\obj\x64\Debug\EyeGaze.PopUpDisappear.resources
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\obj\x64\Debug\EyeGaze.PopUp.resources
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\obj\x64\Debug\EyeGaze.PopUpDisappear.resources
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\bin\x64\Debug\Fixover.exe.config
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\bin\x64\Debug\Fixover.exe.manifest
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\bin\x64\Debug\Fixover.application
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\bin\x64\Debug\Fixover.exe
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\bin\x64\Debug\Fixover.pdb
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\obj\x64\Debug\Fixover.exe.manifest
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\obj\x64\Debug\Fixover.application
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\obj\x64\Debug\Fixover.exe
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\obj\x64\Debug\Fixover.pdb
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\bin\x64\Debug\Fixover.exe.config
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\bin\x64\Debug\Fixover.exe.manifest
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\bin\x64\Debug\Fixover.application
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\bin\x64\Debug\Fixover.exe
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\bin\x64\Debug\Fixover.pdb
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\obj\x64\Debug\Fixover.exe.manifest
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\obj\x64\Debug\Fixover.application
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\obj\x64\Debug\Fixover.exe
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\obj\x64\Debug\Fixover.pdb
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\bin\x64\Debug\en_US.aff
+D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\bin\x64\Debug\en_US.dic
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\bin\x64\Debug\en_US.aff
+C:\Users\tomer\Desktop\EyeGaze\EyeGaze\WindowsFormsApp1\bin\x64\Debug\en_US.dic
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\Fixover.exe
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\Fixover.pdb
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csprojAssemblyReference.cache
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.PopUp.resources
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.PopUpDisappear.resources
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.Properties.Resources.resources
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csproj.GenerateResource.cache
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csproj.CoreCompileInputs.cache
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\NUnit3.TestAdapter.dll
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\NUnit3.TestAdapter.pdb
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\nunit.engine.dll
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\nunit.engine.api.dll
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\en_US.aff
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\en_US.dic
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Fixover.exe.config
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Fixover.exe.manifest
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Fixover.application
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Fixover.exe
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Fixover.pdb
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Castle.Core.dll
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\log4net.dll
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Moq.dll
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\NAudio.dll
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\NHunspell.dll
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\nunit.framework.dll
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\stdole.dll
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Castle.Core.xml
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\log4net.xml
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Moq.xml
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\NAudio.xml
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\NHunspell.pdb
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\nunit.framework.pdb
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\nunit.framework.xml
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\Fixover.exe.manifest
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\Fixover.application
+C:\Users\seanav\Downloads\EyeGaze-master\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csproj.CopyComplete
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\NUnit3.TestAdapter.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\NUnit3.TestAdapter.pdb
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\nunit.engine.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\nunit.engine.api.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\en_US.aff
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\en_US.dic
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Fixover.exe.config
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Fixover.exe.manifest
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Fixover.application
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Fixover.exe
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Fixover.pdb
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Castle.Core.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\log4net.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Moq.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\NAudio.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\NHunspell.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\nunit.framework.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\stdole.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Castle.Core.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\log4net.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Moq.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\NAudio.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\NHunspell.pdb
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\nunit.framework.pdb
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\nunit.framework.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csprojAssemblyReference.cache
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.PopUp.resources
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.PopUpDisappear.resources
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.Properties.Resources.resources
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csproj.GenerateResource.cache
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\Fixover.exe.manifest
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\Fixover.application
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csproj.CopyComplete
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\Fixover.exe
+C:\Users\sshho\OneDrive\Desktop\Projects\C#\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\Fixover.pdb
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csprojAssemblyReference.cache
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.PopUp.resources
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.PopUpDisappear.resources
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.Properties.Resources.resources
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csproj.GenerateResource.cache
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\Fixover.exe
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\Fixover.pdb
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\NUnit3.TestAdapter.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\NUnit3.TestAdapter.pdb
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\nunit.engine.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\nunit.engine.api.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\en_US.aff
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\en_US.dic
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Fixover.exe.config
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Fixover.exe.manifest
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Fixover.application
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Fixover.exe
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Fixover.pdb
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Castle.Core.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\log4net.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Moq.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\NAudio.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\NHunspell.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\nunit.framework.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\stdole.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Castle.Core.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\log4net.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Moq.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\NAudio.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\NHunspell.pdb
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\nunit.framework.pdb
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\nunit.framework.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\Fixover.exe.manifest
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\Fixover.application
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csproj.CopyComplete
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.PopUp.resources
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.PopUpDisappear.resources
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.Properties.Resources.resources
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csproj.GenerateResource.cache
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\Fixover.exe
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\Fixover.pdb
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\NUnit3.TestAdapter.dll
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\NUnit3.TestAdapter.pdb
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\nunit.engine.dll
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\nunit.engine.api.dll
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\en_US.aff
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\en_US.dic
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Fixover.exe.config
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Fixover.exe.manifest
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Fixover.application
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Fixover.exe
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Fixover.pdb
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Castle.Core.dll
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\log4net.dll
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Moq.dll
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\NAudio.dll
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\NHunspell.dll
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\nunit.framework.dll
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\stdole.dll
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Castle.Core.xml
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\log4net.xml
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Moq.xml
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\NAudio.xml
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\NHunspell.pdb
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\nunit.framework.pdb
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\nunit.framework.xml
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\Fixover.exe.manifest
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\Fixover.application
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csproj.CopyComplete
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\grpc_csharp_ext.x86.dll
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\grpc_csharp_ext.x64.dll
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\libgrpc_csharp_ext.x86.so
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\libgrpc_csharp_ext.x86.dylib
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Google.Api.CommonProtos.dll
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.dll
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.dll
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.GrpcCore.dll
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Auth.dll
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Core.dll
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Google.Apis.dll
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Google.Apis.PlatformServices.dll
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Google.Cloud.Speech.V1.dll
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Google.LongRunning.dll
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Google.Protobuf.dll
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Grpc.Auth.dll
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.Api.dll
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.dll
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\System.Buffers.dll
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\System.Memory.dll
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Google.Api.CommonProtos.pdb
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Google.Api.CommonProtos.xml
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.pdb
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.xml
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.pdb
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.xml
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.GrpcCore.pdb
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.GrpcCore.xml
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Google.Apis.pdb
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Google.Apis.xml
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Auth.pdb
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Auth.xml
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Core.pdb
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Core.xml
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Google.Cloud.Speech.V1.pdb
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Google.Cloud.Speech.V1.xml
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Google.LongRunning.pdb
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Google.LongRunning.xml
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Google.Protobuf.pdb
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Google.Protobuf.xml
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Grpc.Auth.pdb
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Grpc.Auth.xml
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.pdb
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.xml
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.Api.pdb
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.Api.xml
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\System.Buffers.xml
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\System.Memory.xml
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.suggestionPopup.resources
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.MainGUI.resources
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.Frontend.resources
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\bin\x64\Debug\Bunifu_UI_v1.52.dll
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.GUI.calibration.resources
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.GUI.chooseFile.resources
+C:\Users\sshho\PycharmProjects\final_project\EyeGaze-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csprojAssemblyReference.cache
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csprojAssemblyReference.cache
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.Frontend.resources
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.PopUp.resources
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.PopUpDisappear.resources
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.suggestionPopup.resources
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csproj.GenerateResource.cache
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\obj\x64\Debug\Fixover.exe
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\obj\x64\Debug\Fixover.pdb
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\en_US.aff
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\en_US.dic
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Fixover.exe.config
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Fixover.exe.manifest
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Fixover.application
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Fixover.exe
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Fixover.pdb
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Castle.Core.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.CommonProtos.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.GrpcCore.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Auth.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Core.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.PlatformServices.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Cloud.Speech.V1.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Google.LongRunning.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Protobuf.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Grpc.Auth.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.Api.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\log4net.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Moq.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\NAudio.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\NHunspell.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\nunit.framework.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\System.Buffers.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\System.Memory.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\stdole.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Castle.Core.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.CommonProtos.pdb
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.CommonProtos.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.pdb
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.pdb
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.GrpcCore.pdb
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.GrpcCore.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.pdb
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Auth.pdb
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Auth.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Core.pdb
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Core.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Cloud.Speech.V1.pdb
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Cloud.Speech.V1.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Google.LongRunning.pdb
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Google.LongRunning.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Protobuf.pdb
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Protobuf.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Grpc.Auth.pdb
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Grpc.Auth.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.pdb
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.Api.pdb
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.Api.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\log4net.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Moq.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\NAudio.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\NHunspell.pdb
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\nunit.framework.pdb
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\nunit.framework.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\System.Buffers.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\System.Memory.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.Properties.Resources.resources
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\obj\x64\Debug\Fixover.exe.manifest
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\obj\x64\Debug\Fixover.application
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csproj.CopyComplete
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\NUnit3.TestAdapter.dll
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\NUnit3.TestAdapter.pdb
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\nunit.engine.dll
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\nunit.engine.api.dll
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\en_US.aff
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\en_US.dic
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.core.dll
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\grpc_csharp_ext.x86.dll
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\grpc_csharp_ext.x64.dll
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\libgrpc_csharp_ext.x86.so
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\libgrpc_csharp_ext.x64.so
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\libgrpc_csharp_ext.x86.dylib
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\libgrpc_csharp_ext.x64.dylib
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Fixover.exe.config
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Fixover.exe.manifest
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Fixover.application
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Fixover.exe
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Fixover.pdb
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Castle.Core.dll
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Api.CommonProtos.dll
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.dll
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.dll
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.GrpcCore.dll
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Auth.dll
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Core.dll
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Apis.dll
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Apis.PlatformServices.dll
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Cloud.Speech.V1.dll
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.LongRunning.dll
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Protobuf.dll
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Grpc.Auth.dll
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.Api.dll
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.dll
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\log4net.dll
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Microsoft.Office.Interop.Word.dll
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Moq.dll
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\NAudio.dll
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.dll
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\NHunspell.dll
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\nunit.framework.dll
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\System.Buffers.dll
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\System.Memory.dll
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\System.Numerics.Vectors.dll
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\stdole.dll
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Castle.Core.xml
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Api.CommonProtos.pdb
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Api.CommonProtos.xml
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.pdb
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.xml
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.pdb
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.xml
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.GrpcCore.pdb
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.GrpcCore.xml
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Apis.pdb
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Apis.xml
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Auth.pdb
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Auth.xml
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Core.pdb
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Core.xml
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Cloud.Speech.V1.pdb
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Cloud.Speech.V1.xml
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.LongRunning.pdb
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.LongRunning.xml
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Protobuf.pdb
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Protobuf.xml
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Grpc.Auth.pdb
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Grpc.Auth.xml
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.pdb
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.xml
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.Api.pdb
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.Api.xml
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\log4net.xml
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Moq.xml
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\NAudio.xml
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.xml
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\NHunspell.pdb
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\nunit.framework.pdb
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\nunit.framework.xml
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\System.Buffers.xml
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\System.Memory.xml
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\System.Numerics.Vectors.xml
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csprojAssemblyReference.cache
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.Frontend.resources
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.PopUp.resources
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.PopUpDisappear.resources
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.suggestionPopup.resources
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.Properties.Resources.resources
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csproj.GenerateResource.cache
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csproj.CoreCompileInputs.cache
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\obj\x64\Debug\Fixover.exe.manifest
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\obj\x64\Debug\Fixover.application
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csproj.CopyComplete
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\obj\x64\Debug\Fixover.exe
+D:\Downloads\Fresh Downloads\final_project-master\final_project-master\WindowsFormsApp1\obj\x64\Debug\Fixover.pdb
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\en_US.aff
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\en_US.dic
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Fixover.exe.config
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Fixover.exe.manifest
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Fixover.application
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Fixover.exe
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Fixover.pdb
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Castle.Core.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.CommonProtos.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.GrpcCore.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Auth.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Core.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Cloud.Speech.V1.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Google.LongRunning.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Protobuf.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Grpc.Auth.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.Api.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\log4net.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Moq.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\NAudio.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\NHunspell.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\nunit.framework.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\System.Buffers.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\System.Memory.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\stdole.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Castle.Core.xml
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.CommonProtos.pdb
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.CommonProtos.xml
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.pdb
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.xml
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.pdb
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.xml
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.GrpcCore.pdb
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.GrpcCore.xml
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.pdb
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.xml
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Auth.pdb
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Auth.xml
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Core.pdb
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Core.xml
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Cloud.Speech.V1.pdb
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Cloud.Speech.V1.xml
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Google.LongRunning.pdb
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Google.LongRunning.xml
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Protobuf.pdb
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Protobuf.xml
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Grpc.Auth.pdb
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Grpc.Auth.xml
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.pdb
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.xml
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.Api.pdb
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.Api.xml
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\log4net.xml
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Moq.xml
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\NAudio.xml
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\NHunspell.pdb
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\nunit.framework.pdb
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\nunit.framework.xml
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\System.Buffers.xml
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\System.Memory.xml
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csprojAssemblyReference.cache
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.Frontend.resources
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.PopUp.resources
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.PopUpDisappear.resources
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.suggestionPopup.resources
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.Properties.Resources.resources
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csproj.GenerateResource.cache
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csproj.CoreCompileInputs.cache
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\obj\x64\Debug\Fixover.exe.manifest
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\obj\x64\Debug\Fixover.application
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csproj.CopyComplete
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\obj\x64\Debug\Fixover.exe
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\obj\x64\Debug\Fixover.pdb
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\en_US.aff
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\en_US.dic
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Fixover.exe.config
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Fixover.exe.manifest
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Fixover.application
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Fixover.exe
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Fixover.pdb
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Castle.Core.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.CommonProtos.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.GrpcCore.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Auth.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Core.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.PlatformServices.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Cloud.Speech.V1.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Google.LongRunning.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Protobuf.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Grpc.Auth.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.Api.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\log4net.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Microsoft.Office.Interop.Word.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Moq.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\NAudio.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\NHunspell.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\nunit.framework.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\System.Buffers.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\System.Memory.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\System.Numerics.Vectors.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\stdole.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Castle.Core.xml
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.CommonProtos.pdb
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.CommonProtos.xml
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.pdb
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.xml
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.pdb
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.xml
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.GrpcCore.pdb
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.GrpcCore.xml
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.pdb
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.xml
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Auth.pdb
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Auth.xml
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Core.pdb
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Core.xml
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Cloud.Speech.V1.pdb
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Cloud.Speech.V1.xml
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Google.LongRunning.pdb
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Google.LongRunning.xml
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Protobuf.pdb
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Protobuf.xml
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Grpc.Auth.pdb
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Grpc.Auth.xml
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.pdb
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.xml
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.Api.pdb
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.Api.xml
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\log4net.xml
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Moq.xml
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\NAudio.xml
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.xml
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\NHunspell.pdb
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\nunit.framework.pdb
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\nunit.framework.xml
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\System.Buffers.xml
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\System.Memory.xml
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\System.Numerics.Vectors.xml
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+D:\LocalReps\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csprojAssemblyReference.cache
+D:\LocalReps\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.Frontend.resources
+D:\LocalReps\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.PopUp.resources
+D:\LocalReps\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.PopUpDisappear.resources
+D:\LocalReps\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.suggestionPopup.resources
+D:\LocalReps\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.Properties.Resources.resources
+D:\LocalReps\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csproj.GenerateResource.cache
+D:\LocalReps\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csproj.CoreCompileInputs.cache
+D:\LocalReps\final_project\WindowsFormsApp1\obj\x64\Debug\Fixover.exe.manifest
+D:\LocalReps\final_project\WindowsFormsApp1\obj\x64\Debug\Fixover.application
+D:\LocalReps\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csproj.CopyComplete
+D:\LocalReps\final_project\WindowsFormsApp1\obj\x64\Debug\Fixover.exe
+D:\LocalReps\final_project\WindowsFormsApp1\obj\x64\Debug\Fixover.pdb
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csproj.CoreCompileInputs.cache
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\CsvHelper.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\DnsClient.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.HashCode.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\MongoDB.Bson.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\MongoDB.Driver.Core.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\MongoDB.Driver.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\MongoDB.Libmongocrypt.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\SharpCompress.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\CsvHelper.xml
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\DnsClient.xml
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.HashCode.xml
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\MongoDB.Bson.xml
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\MongoDB.Driver.xml
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\MongoDB.Driver.Core.xml
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\NUnit3.TestAdapter.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\nunit.engine.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\nunit.engine.api.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\mongocrypt.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\snappy32.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\snappy64.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\libzstd.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\grpc_csharp_ext.x86.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\grpc_csharp_ext.x64.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\libgrpc_csharp_ext.x86.so
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\libgrpc_csharp_ext.x86.dylib
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\CsvHelper.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\DnsClient.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\ExperimentSystem.exe
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\MongoDB.Bson.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\MongoDB.Driver.Core.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\MongoDB.Driver.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\SharpCompress.dll
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\CsvHelper.xml
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\DnsClient.xml
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\MongoDB.Bson.xml
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\MongoDB.Driver.xml
+C:\Users\Hila\Desktop\Final_Project\final_project\WindowsFormsApp1\bin\x64\Debug\MongoDB.Driver.Core.xml
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\NuGet.Common.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\NuGet.Frameworks.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\NuGet.Common.xml
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\NuGet.Frameworks.xml
+D:\LocalReps\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.ExperimentForm.resources
+D:\LocalReps\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.ExperimentHelpForm.resources
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\CsvHelper.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\DnsClient.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\MongoDB.Bson.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\MongoDB.Driver.Core.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\MongoDB.Driver.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\NuGet.Common.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\NuGet.Frameworks.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\SharpCompress.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\CsvHelper.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\DnsClient.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\MongoDB.Bson.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\MongoDB.Driver.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\MongoDB.Driver.Core.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\NuGet.Common.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\NuGet.Frameworks.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.ExperimentForm.resources
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.ExperimentHelpForm.resources
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\mongocrypt.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\snappy32.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\snappy64.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\libzstd.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\NUnit3.TestAdapter.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\NUnit3.TestAdapter.pdb
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\nunit.engine.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\nunit.engine.api.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\grpc_csharp_ext.x86.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\grpc_csharp_ext.x64.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\libgrpc_csharp_ext.x86.so
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\libgrpc_csharp_ext.x86.dylib
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\libgrpc_csharp_ext.x64.dylib
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\LumenWorks.Framework.IO.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\LumenWorks.Framework.IO.pdb
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\LumenWorks.Framework.IO.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\LumenWorks.Framework.IO.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\LumenWorks.Framework.IO.pdb
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\LumenWorks.Framework.IO.xml
+D:\LocalReps\final_project\WindowsFormsApp1\obj\x64\Debug\Experiment.Guide.resources
+D:\LocalReps\final_project\WindowsFormsApp1\obj\x64\Debug\Experiment.POPUP.resources
+D:\LocalReps\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.Expr.Properties.Resource1.resources
+D:\LocalReps\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.Expr.Resources.old.Resource1.resources
+D:\LocalReps\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.Expr.Resources.old.Resource2.resources
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\NUnit3.TestAdapter.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\NUnit3.TestAdapter.pdb
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\nunit.engine.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\nunit.engine.api.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\mongocrypt.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\snappy32.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\snappy64.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\libzstd.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.core.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\grpc_csharp_ext.x86.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\grpc_csharp_ext.x64.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\libgrpc_csharp_ext.x86.so
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\libgrpc_csharp_ext.x64.so
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\libgrpc_csharp_ext.x86.dylib
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\libgrpc_csharp_ext.x64.dylib
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Spire.Doc.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Spire.License.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Spire.Pdf.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Microsoft.mshtml.dll
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Spire.Doc.xml
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Spire.License.xml
+D:\LocalReps\final_project\WindowsFormsApp1\bin\x64\Debug\Spire.Pdf.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Spire.Doc.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Spire.License.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Spire.Pdf.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Microsoft.mshtml.dll
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Spire.Doc.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Spire.License.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\bin\x64\Debug\Spire.Pdf.xml
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\obj\x64\Debug\Experiment.Guide.resources
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\obj\x64\Debug\Experiment.POPUP.resources
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.Expr.Properties.Resource1.resources
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.Expr.Resources.old.Resource1.resources
+C:\Users\sshho\OneDrive\Desktop\Projects\Visual Studio\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.Expr.Resources.old.Resource2.resources
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csprojAssemblyReference.cache
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.ExperimentForm.resources
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.ExperimentHelpForm.resources
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\obj\x64\Debug\Experiment.Guide.resources
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\obj\x64\Debug\Experiment.POPUP.resources
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.Expr.Properties.Resource1.resources
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.Expr.Resources.old.Resource1.resources
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.Expr.Resources.old.Resource2.resources
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.Frontend.resources
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.PopUp.resources
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.PopUpDisappear.resources
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.suggestionPopup.resources
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.Properties.Resources.resources
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csproj.GenerateResource.cache
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csproj.CoreCompileInputs.cache
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\obj\x64\Debug\Fixover.exe
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\obj\x64\Debug\Fixover.pdb
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\NUnit3.TestAdapter.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\nunit.engine.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\nunit.engine.api.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\mongocrypt.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\snappy32.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\snappy64.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\libzstd.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\en_US.aff
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\en_US.dic
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\grpc_csharp_ext.x86.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\grpc_csharp_ext.x64.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\libgrpc_csharp_ext.x86.so
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\libgrpc_csharp_ext.x86.dylib
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Fixover.exe.config
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Fixover.exe.manifest
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Fixover.application
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Fixover.exe
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Fixover.pdb
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Castle.Core.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\CsvHelper.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\DnsClient.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Google.Api.CommonProtos.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.GrpcCore.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Auth.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Core.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Google.Cloud.Speech.V1.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Google.LongRunning.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Google.Protobuf.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Grpc.Auth.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.Api.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\log4net.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\LumenWorks.Framework.IO.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\MongoDB.Bson.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\MongoDB.Driver.Core.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\MongoDB.Driver.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Moq.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\NAudio.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\NHunspell.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\NuGet.Common.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\NuGet.Frameworks.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\nunit.framework.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\SharpCompress.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Spire.Doc.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Spire.License.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Spire.Pdf.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\System.Buffers.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\System.Memory.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Microsoft.mshtml.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\stdole.dll
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Castle.Core.xml
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\CsvHelper.xml
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\DnsClient.xml
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Google.Api.CommonProtos.pdb
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Google.Api.CommonProtos.xml
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.pdb
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.xml
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.pdb
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.xml
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.GrpcCore.pdb
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.GrpcCore.xml
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.pdb
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.xml
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Auth.pdb
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Auth.xml
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Core.pdb
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Core.xml
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Google.Cloud.Speech.V1.pdb
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Google.Cloud.Speech.V1.xml
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Google.LongRunning.pdb
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Google.LongRunning.xml
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Google.Protobuf.pdb
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Google.Protobuf.xml
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Grpc.Auth.pdb
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Grpc.Auth.xml
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.pdb
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.xml
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.Api.pdb
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.Api.xml
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\log4net.xml
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\LumenWorks.Framework.IO.pdb
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\LumenWorks.Framework.IO.xml
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\MongoDB.Bson.xml
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\MongoDB.Driver.xml
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\MongoDB.Driver.Core.xml
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Moq.xml
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\NAudio.xml
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\NHunspell.pdb
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\NuGet.Common.xml
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\NuGet.Frameworks.xml
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\nunit.framework.pdb
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\nunit.framework.xml
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Spire.Doc.xml
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Spire.License.xml
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\Spire.Pdf.xml
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\System.Buffers.xml
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\System.Memory.xml
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\obj\x64\Debug\Fixover.exe.manifest
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\obj\x64\Debug\Fixover.application
+C:\Users\Hila\Desktop\Final_Project\project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csproj.CopyComplete
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csprojAssemblyReference.cache
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.ExperimentForm.resources
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.ExperimentHelpForm.resources
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\obj\x64\Debug\Experiment.Guide.resources
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\obj\x64\Debug\Experiment.POPUP.resources
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.Expr.Properties.Resource1.resources
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.Expr.Resources.old.Resource1.resources
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.Expr.Resources.old.Resource2.resources
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.Frontend.resources
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.PopUp.resources
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.PopUpDisappear.resources
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.suggestionPopup.resources
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.Properties.Resources.resources
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csproj.GenerateResource.cache
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csproj.CoreCompileInputs.cache
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\obj\x64\Debug\Fixover.exe
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\obj\x64\Debug\Fixover.pdb
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\NUnit3.TestAdapter.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\NUnit3.TestAdapter.pdb
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\nunit.engine.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\nunit.engine.api.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\mongocrypt.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\snappy32.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\snappy64.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\libzstd.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\en_US.aff
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\en_US.dic
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\grpc_csharp_ext.x86.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\grpc_csharp_ext.x64.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\libgrpc_csharp_ext.x86.so
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\libgrpc_csharp_ext.x86.dylib
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Fixover.exe.config
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Fixover.exe.manifest
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Fixover.application
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Fixover.exe
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Fixover.pdb
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Castle.Core.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\CsvHelper.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\DnsClient.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.CommonProtos.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.GrpcCore.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Auth.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Core.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.PlatformServices.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Cloud.Speech.V1.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Google.LongRunning.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Protobuf.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Grpc.Auth.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.Api.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\log4net.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\LumenWorks.Framework.IO.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\MongoDB.Bson.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\MongoDB.Driver.Core.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\MongoDB.Driver.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Moq.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\NAudio.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\NHunspell.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\NuGet.Common.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\NuGet.Frameworks.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\nunit.framework.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\SharpCompress.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Spire.Doc.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Spire.License.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Spire.Pdf.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\System.Buffers.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\System.Memory.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Microsoft.mshtml.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\stdole.dll
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Castle.Core.xml
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\CsvHelper.xml
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\DnsClient.xml
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.CommonProtos.pdb
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.CommonProtos.xml
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.pdb
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.xml
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.pdb
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.xml
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.GrpcCore.pdb
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.GrpcCore.xml
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.pdb
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.xml
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Auth.pdb
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Auth.xml
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Core.pdb
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Core.xml
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Cloud.Speech.V1.pdb
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Cloud.Speech.V1.xml
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Google.LongRunning.pdb
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Google.LongRunning.xml
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Protobuf.pdb
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Google.Protobuf.xml
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Grpc.Auth.pdb
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Grpc.Auth.xml
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.pdb
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.xml
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.Api.pdb
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.Api.xml
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\log4net.xml
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\LumenWorks.Framework.IO.pdb
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\LumenWorks.Framework.IO.xml
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\MongoDB.Bson.xml
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\MongoDB.Driver.xml
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\MongoDB.Driver.Core.xml
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Moq.xml
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\NAudio.xml
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\NHunspell.pdb
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\NuGet.Common.xml
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\NuGet.Frameworks.xml
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\nunit.framework.pdb
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\nunit.framework.xml
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Spire.Doc.xml
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Spire.License.xml
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\Spire.Pdf.xml
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\System.Buffers.xml
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\System.Memory.xml
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\obj\x64\Debug\Fixover.exe.manifest
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\obj\x64\Debug\Fixover.application
+C:\Users\seanav\Documents\Experiment\final_project\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csproj.CopyComplete
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\en_US.aff
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\en_US.dic
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Fixover.exe.config
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Fixover.exe.manifest
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Fixover.application
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Fixover.exe
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Fixover.pdb
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Castle.Core.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\CsvHelper.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\DnsClient.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Google.Api.CommonProtos.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.GrpcCore.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Auth.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Core.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Google.Apis.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Google.Cloud.Speech.V1.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Google.LongRunning.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Google.Protobuf.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Grpc.Auth.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.Api.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\log4net.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\LumenWorks.Framework.IO.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\MongoDB.Bson.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\MongoDB.Driver.Core.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\MongoDB.Driver.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Moq.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\NAudio.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\NHunspell.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\NuGet.Common.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\NuGet.Frameworks.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\nunit.framework.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\SharpCompress.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Spire.Doc.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Spire.License.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Spire.Pdf.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\System.Buffers.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\System.Memory.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Microsoft.mshtml.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\stdole.dll
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Castle.Core.xml
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\CsvHelper.xml
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\DnsClient.xml
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Google.Api.CommonProtos.pdb
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Google.Api.CommonProtos.xml
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.pdb
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.xml
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.pdb
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.xml
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.GrpcCore.pdb
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.GrpcCore.xml
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Google.Apis.pdb
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Google.Apis.xml
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Auth.pdb
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Auth.xml
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Core.pdb
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Core.xml
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Google.Cloud.Speech.V1.pdb
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Google.Cloud.Speech.V1.xml
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Google.LongRunning.pdb
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Google.LongRunning.xml
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Google.Protobuf.pdb
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Google.Protobuf.xml
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Grpc.Auth.pdb
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Grpc.Auth.xml
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.pdb
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.xml
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.Api.pdb
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.Api.xml
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\log4net.xml
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\LumenWorks.Framework.IO.pdb
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\LumenWorks.Framework.IO.xml
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\MongoDB.Bson.xml
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\MongoDB.Driver.xml
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\MongoDB.Driver.Core.xml
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Moq.xml
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\NAudio.xml
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\NHunspell.pdb
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\NuGet.Common.xml
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\NuGet.Frameworks.xml
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\nunit.framework.pdb
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\nunit.framework.xml
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Spire.Doc.xml
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Spire.License.xml
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\Spire.Pdf.xml
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\System.Buffers.xml
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\System.Memory.xml
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csprojAssemblyReference.cache
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\obj\x64\Debug\EyeGaze.ExperimentForm.resources
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\obj\x64\Debug\EyeGaze.ExperimentHelpForm.resources
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\obj\x64\Debug\Experiment.Guide.resources
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\obj\x64\Debug\Experiment.POPUP.resources
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\obj\x64\Debug\EyeGaze.Expr.Properties.Resource1.resources
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\obj\x64\Debug\EyeGaze.Expr.Resources.old.Resource1.resources
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\obj\x64\Debug\EyeGaze.Expr.Resources.old.Resource2.resources
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\obj\x64\Debug\EyeGaze.Frontend.resources
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\obj\x64\Debug\EyeGaze.PopUp.resources
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\obj\x64\Debug\EyeGaze.PopUpDisappear.resources
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\obj\x64\Debug\EyeGaze.suggestionPopup.resources
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\obj\x64\Debug\EyeGaze.Properties.Resources.resources
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csproj.GenerateResource.cache
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csproj.CoreCompileInputs.cache
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\obj\x64\Debug\Fixover.exe.manifest
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\obj\x64\Debug\Fixover.application
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csproj.CopyComplete
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\obj\x64\Debug\Fixover.exe
+C:\Users\Hila\Desktop\Final_Project\code\WindowsFormsApp1\obj\x64\Debug\Fixover.pdb
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\NUnit3.TestAdapter.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\NUnit3.TestAdapter.pdb
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\nunit.engine.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\nunit.engine.api.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\en_US.aff
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\en_US.dic
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\mongocrypt.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\snappy32.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\snappy64.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\libzstd.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\grpc_csharp_ext.x86.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\grpc_csharp_ext.x64.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\libgrpc_csharp_ext.x86.so
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\libgrpc_csharp_ext.x86.dylib
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Fixover.exe.config
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Fixover.exe.manifest
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Fixover.application
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Fixover.exe
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Fixover.pdb
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Castle.Core.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\CsvHelper.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\DnsClient.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Api.CommonProtos.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.GrpcCore.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Auth.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Core.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Apis.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Apis.PlatformServices.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Cloud.Speech.V1.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.LongRunning.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Protobuf.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Grpc.Auth.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.Api.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\log4net.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\LumenWorks.Framework.IO.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\MongoDB.Bson.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\MongoDB.Driver.Core.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\MongoDB.Driver.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Moq.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\NAudio.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\NHunspell.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\NuGet.Common.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\NuGet.Frameworks.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\nunit.framework.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\SharpCompress.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Spire.Doc.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Spire.License.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Spire.Pdf.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\System.Buffers.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\System.Memory.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Microsoft.mshtml.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\stdole.dll
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Castle.Core.xml
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\CsvHelper.xml
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\DnsClient.xml
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Api.CommonProtos.pdb
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Api.CommonProtos.xml
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.pdb
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.xml
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.pdb
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.xml
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.GrpcCore.pdb
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Api.Gax.Grpc.GrpcCore.xml
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Apis.pdb
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Apis.xml
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Auth.pdb
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Auth.xml
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Core.pdb
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Apis.Core.xml
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Cloud.Speech.V1.pdb
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Cloud.Speech.V1.xml
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.LongRunning.pdb
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.LongRunning.xml
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Protobuf.pdb
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Google.Protobuf.xml
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Grpc.Auth.pdb
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Grpc.Auth.xml
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.pdb
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.xml
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.Api.pdb
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Grpc.Core.Api.xml
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\log4net.xml
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\LumenWorks.Framework.IO.pdb
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\LumenWorks.Framework.IO.xml
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\MongoDB.Bson.xml
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\MongoDB.Driver.xml
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\MongoDB.Driver.Core.xml
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Moq.xml
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\NAudio.xml
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\NHunspell.pdb
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\NuGet.Common.xml
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\NuGet.Frameworks.xml
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\nunit.framework.pdb
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\nunit.framework.xml
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Spire.Doc.xml
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Spire.License.xml
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\Spire.Pdf.xml
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\System.Buffers.xml
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\System.Memory.xml
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csprojAssemblyReference.cache
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.ExperimentForm.resources
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.ExperimentHelpForm.resources
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\obj\x64\Debug\Experiment.Guide.resources
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\obj\x64\Debug\Experiment.POPUP.resources
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.Expr.Properties.Resource1.resources
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.Expr.Resources.old.Resource1.resources
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.Expr.Resources.old.Resource2.resources
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.Frontend.resources
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.PopUp.resources
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.PopUpDisappear.resources
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.suggestionPopup.resources
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.Properties.Resources.resources
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csproj.GenerateResource.cache
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csproj.CoreCompileInputs.cache
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\obj\x64\Debug\Fixover.exe.manifest
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\obj\x64\Debug\Fixover.application
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\obj\x64\Debug\EyeGaze.csproj.CopyComplete
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\obj\x64\Debug\Fixover.exe
+C:\Users\seanav\Documents\final_project-master\WindowsFormsApp1\obj\x64\Debug\Fixover.pdb

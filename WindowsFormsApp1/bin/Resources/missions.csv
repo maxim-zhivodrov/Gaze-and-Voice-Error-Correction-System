@@ -1,0 +1,225 @@
+﻿System,Mission Number,Mission Text,effort
+VoiceOnly_#0,0,"Navigate to page 1, paragraph 1, line 1.",0
+VoiceOnly_#0,1,"fix \""batery\"" to \""battery\"". (page 1, paragraph 1, line 1) ",0
+VoiceOnly_#0,2,"Navigate to page 1, paragraph 2, line 9 ",0
+VoiceOnly_#0,3,"Add \""great\"" after \""first\"". (page 1, paragraph 2, line 9 )",0
+VoiceOnly_#0,4,"Navigate to page 1, paragraph 2, line 19.",0
+VoiceOnly_#0,5,"Copy from \""down\""  to \""ground\"". (page 1, paragraph 2, line 19)",0
+VoiceOnly_#0,6,"Navigate to page 1, paragraph 2, line 21.",0
+VoiceOnly_#0,7,"Paste after \""ring\"". (page 1, paragraph 2, line 21)",0
+VoiceOnly_#0,8,"Navigate to page 2, paragraph 4, line 33.",0
+VoiceOnly_#0,9,"Replace \""garden\"" to \""balcony\"" . (page 2, paragraph 4, line 33)",0
+VoiceOnly_#0,10,"Navigate to page 1, paragrpah 2, line 14.",0
+VoiceOnly_#0,11,"fix \""slueg\"" to \""slug\"". (page 1, paragrpah 2, line 14)",0
+VoiceOnly_#0,12,"Navigate to page 1, paragraph 3, line 28-29",0
+VoiceOnly_#0,13,"Delete from \""Greek\"" to \""process\"". (page 1, paragraph 3, line 28-29)",0
+VoiceGaze_#0,0,"Navigate to page 1, paragraph 1, line 1.",0
+VoiceGaze_#0,1,"fix \""batery\"" to \""battery\"". (page 1, paragraph 1, line 1) ",0
+VoiceGaze_#0,2,"Navigate to page 1, paragraph 2, line 9 ",0
+VoiceGaze_#0,3,"Add \""great\"" after \""first\"". (page 1, paragraph 2, line 9 )",0
+VoiceGaze_#0,4,"Navigate to page 1, paragraph 3, line 19.",0
+VoiceGaze_#0,5,"Copy from \""down\"" to \""sand\"". (page 1, paragraph 3, line 19)",0
+VoiceGaze_#0,6,"Navigate to page 1, paragraph 3, line 20.",0
+VoiceGaze_#0,7,"Paste after \""ring\"". (page 1, paragraph 3, line 20)",0
+VoiceGaze_#0,8,"Navigate to page 2, paragraph 5, line 31.",0
+VoiceGaze_#0,9,"Replace \""garden\"" to \""balcony\"" . (page 2, paragraph 5, line 31)",0
+VoiceGaze_#0,10,"Navigate to page 1, paragrpah 2, line 13.",0
+VoiceGaze_#0,11,"fix \""slueg\"" to \""slug\"". (page 1, paragrpah 2, line 13)",0
+VoiceGaze_#0,12,"Navigate to page 2, paragraph 4, line 22-23.",0
+VoiceGaze_#0,13,"Delete from \""Water\"" to \""beginning\"". (page 2, paragraph 4, line 22-23)",0
+VoiceMouse_#0,0,"Navigate to page 1, paragraph 1, line 1.",0
+VoiceMouse_#0,1,"fix \""batery\"" to \""battery\"". (page 1, paragraph 1, line 1) ",0
+VoiceMouse_#0,2,"Navigate to page 1, paragraph 2, line 9 ",0
+VoiceMouse_#0,3,"Add \""great\"" after \""first\"". (page 1, paragraph 2, line 9 )",0
+VoiceMouse_#0,4,"Navigate to page 1, paragraph 3, line 19.",0
+VoiceMouse_#0,5,"Copy from \""down\"" to \""sand\"". (page 1, paragraph 3, line 19)",0
+VoiceMouse_#0,6,"Navigate to page 1, paragraph 3, line 20.",0
+VoiceMouse_#0,7,"Paste after \""ring\"". (page 1, paragraph 3, line 20)",0
+VoiceMouse_#0,8,"Navigate to page 2, paragraph 5, line 31.",0
+VoiceMouse_#0,9,"Replace \""garden\"" to \""balcony\"" . (page 2, paragraph 5, line 31)",0
+VoiceMouse_#0,10,"Navigate to page 1, paragrpah 2, line 13.",0
+VoiceMouse_#0,11,"fix \""slueg\"" to \""slug\"". (page 1, paragrpah 2, line 13)",0
+VoiceMouse_#0,12,"Navigate to page 2, paragraph 4, line 22-23.",0
+VoiceMouse_#0,13,"Delete from \""Water\"" to \""beginning\"". (page 2, paragraph 4, line 22-23)",0
+MouseAndKeyboard_#0,0,"Navigate to page 1, paragraph 1, line 1.",0
+MouseAndKeyboard_#0,1,"fix \""batery\"" to \""battery\"". (page 1, paragraph 1, line 1) ",0
+MouseAndKeyboard_#0,2,"Navigate to page 1, paragraph 2, line 9 ",0
+MouseAndKeyboard_#0,3,"Add \""great\"" after \""first\"". (page 1, paragraph 2, line 9 )",0
+MouseAndKeyboard_#0,4,"Navigate to page 1, paragraph 2, line 19.",0
+MouseAndKeyboard_#0,5,"Copy from \""down\""  to \""ground\"". (page 1, paragraph 2, line 19)",0
+MouseAndKeyboard_#0,6,"Navigate to page 1, paragraph 2, line 21.",0
+MouseAndKeyboard_#0,7,"Paste after \""ring\"". (page 1, paragraph 2, line 21)",0
+MouseAndKeyboard_#0,8,"Navigate to page 2, paragraph 4, line 33.",0
+MouseAndKeyboard_#0,9,"Replace \""garden\"" to \""balcony\"" . (page 2, paragraph 4, line 33)",0
+MouseAndKeyboard_#0,10,"Navigate to page 1, paragrpah 2, line 14.",0
+MouseAndKeyboard_#0,11,"fix \""slueg\"" to \""slue\"". (page 1, paragrpah 2, line 14)",0
+MouseAndKeyboard_#0,12,"Navigate to page 1, paragraph 3, line 28-29",0
+MouseAndKeyboard_#0,13,"Delete from \""Greek\"" to \""process\"". (page 1, paragraph 3, line 28-29)",0
+VoiceOnly_#1,0,"Navigate to page 1, paragraph 1, line 3.",0
+VoiceOnly_#1,11,"Fix \""lare\"" to \""large\"". (page 1, paragraph 1, line 3)",4
+VoiceOnly_#1,2,"Navigate to page 1, paragraph 2, line 8.",0
+VoiceOnly_#1,3,"Add \""boy\"" after \""little\"". (page 1, paragraph 2, line 8)",2
+VoiceOnly_#1,4,"Navigate to page 1, paragraph 3, line 12-13.",0
+VoiceOnly_#1,5,"Copy from \""his\"" to \""away\"". (page 1, paragraph 3, line 12-13)",2
+VoiceOnly_#1,6,"Navigate to page 1, paragraph 4, line 19.",0
+VoiceOnly_#1,7,"Paste after \""Then\"". (page 1, paragraph 4, line 19)",1
+VoiceOnly_#1,8,"Navigate to page 2, paragraph 5, line 23.",0
+VoiceOnly_#1,9,"Replace \""always\"" to \""sometimes\"". (page 2, paragraph 5, line 23)",2
+VoiceOnly_#1,10,"Navigate to page 2, paragraph 6, line 30.",0
+VoiceOnly_#1,1,"Fix \""fel\"" to \""fell\"". (page 2, paragraph 6, line 30)",2
+VoiceOnly_#1,12,"Navigate to page 2, paragraph 7, line 35.",0
+VoiceOnly_#1,13,"Delete from \""tears\"" to \""cheeks\"". (page 2, paragraph 7, line 35)",1
+VoiceGaze_#1,0,"Navigate to page 1, paragraph 1, line 2",0
+VoiceGaze_#1,1,"Fix \""indstry\"" to \""industry\"". (page 1, paragraph 1, line 2)",1
+VoiceGaze_#1,2,"Navigate to page 1, paragraph 2, line 5",0
+VoiceGaze_#1,3,"Fix \""pening\"" to \""pending\"". (page 1, paragraph 2, line 5)",3
+VoiceGaze_#1,4,"Navigate to page 1, paragraph 3, line 13",0
+VoiceGaze_#1,5,"Copy from \""in\"" to \""London\"". (page 1, paragraph 3, line 13)",1
+VoiceGaze_#1,6,"Navigate to page 1, paragraph 4, line 18",0
+VoiceGaze_#1,7,"Paste after \""decision\"". (page 1, paragraph 3, line 13)",1
+VoiceGaze_#1,8,"Navigate to page 2, paragraph 5, line 24",0
+VoiceGaze_#1,9,"Add \""sailor\"" after \""average\"". (page 2, paragraph 5, line 24)",1
+VoiceGaze_#1,10,"Navigate to page 2, paragraph 6, line 32",0
+VoiceGaze_#1,11,"Delete from \""personal\"" to \""service\"". (page 2, paragraph 6, line 32)",1
+VoiceGaze_#1,12,"Navigate to page 2, paragraph 8, line 39",0
+VoiceGaze_#1,13,"Replace \""sad \"" to \""happy\"". (page 2, paragraph 8, line 39)",1
+VoiceMouse_#1,0,"Navigate to page 1, paragraph 1, line 2",0
+VoiceMouse_#1,1,"Fix \""alwys\"" to \""always\"". (page 1, paragraph 1, line 2)",1
+VoiceMouse_#1,2,"Navigate to page 1, paragraph 2, line 5",0
+VoiceMouse_#1,3,"Replace \""back\"" to \""front\"". (page 1, paragraph 2, line 5)",1
+VoiceMouse_#1,4,"Navigate to page 1, paragraph 3, line 13",0
+VoiceMouse_#1,5,"Add \""time\"" after \""the\"". (page 1, paragraph 3, line 13)",1
+VoiceMouse_#1,6,"Navigate to page 1, paragraph 4, line 19",0
+VoiceMouse_#1,7,"Fix \""est\"" to \""set\"". (page 1, paragraph 4, line 19)",3
+VoiceMouse_#1,8,"Navigate to page 2, paragraph 5, line 22",0
+VoiceMouse_#1,9,"Copy from \""not\"" to \""any\"". (page 2, paragraph 5, line 22)",1
+VoiceMouse_#1,10,"Navigate to page 2, paragraph 6, line 29",0
+VoiceMouse_#1,11,"Paste after \""and\"". (page 2, paragraph 6, line 29)",1
+VoiceMouse_#1,12,"Navigate to page 2, paragraph 7, line 33",0
+VoiceMouse_#1,13,"Delete from \""Outside\"" to \""public\"". (page 2, paragraph 7, line 33)",1
+MouseAndKeyboard_#1,0,"Navigate to page 1, paragraph 1, line 4",0
+MouseAndKeyboard_#1,1,"Fix \""intersting \"" to \""interesting\"". (page 1, paragraph 1, line 4)",1
+MouseAndKeyboard_#1,2,"Navigate to page 1, paragraph 2, line 9",0
+MouseAndKeyboard_#1,3,"Delete from \""but\"" to \""judge\"". (page 1, paragraph 2, line 9)",1
+MouseAndKeyboard_#1,4,"Navigate to page 1, paragraph 3, line 11",0
+MouseAndKeyboard_#1,5,"Copy from \""don't\"" to \""you\"". (page 1, paragraph 3, line 11)",1
+MouseAndKeyboard_#1,6,"Navigate to page 1, paragraph 4, line 18",0
+MouseAndKeyboard_#1,7,"Paste after \""course\"". (page 1, paragraph 4, line 18)",1
+MouseAndKeyboard_#1,8,"Navigate to page 2, paragraph 5, line 20",0
+MouseAndKeyboard_#1,9,"Add \""object\"" after \""same\"". (page 2, paragraph 5, line 20)",1
+MouseAndKeyboard_#1,10,"Navigate to page 2, paragraph 6, line 26",0
+MouseAndKeyboard_#1,11,"Replace \""first\"" to \""second\"". (page 2, paragraph 6, line 26)",1
+MouseAndKeyboard_#1,12,"Navigate to page 2, paragraph 7, line 32",0
+MouseAndKeyboard_#1,13,"Fix \""ould \"" to \""could\"". (page 2, paragraph 7, line 32)",1
+VoiceOnly_#2,0,"Navigate to  page 1, paragraph 2, line 10.",0
+VoiceOnly_#2,1,"fix \""coock\"" to \""cook\"". (page 1, paragraph 2, line 10)",2
+VoiceOnly_#2,2,"Navigate to page 1, paragraph 1, line 4.",0
+VoiceOnly_#2,3,"Add \""well\"" after \""men\"". (page 1, paragraph 1, line 4)",1
+VoiceOnly_#2,4,"Navigate to page 1, paragraph 1, line 9.",0
+VoiceOnly_#2,5,"Copy from \""small\""  to \""navigation\"". (page 1, paragraph 1, line 9)",1
+VoiceOnly_#2,6,"Navigate to page 1, paragraph 2, line 15.",0
+VoiceOnly_#2,7,"Paste after \""broken\"". (page 1, paragraph 2, line 15)",1
+VoiceOnly_#2,8,"Navigate to page 1, paragraph 2, line 12.",0
+VoiceOnly_#2,9,"Replace \""flaps\"" to \""wings\"". (page 1, paragraph 2, line 12)",1
+VoiceOnly_#2,10,"Navigate to page 1, paragraph 2, line 14.",0
+VoiceOnly_#2,11,"fix \""remarksd\"" to \""remarked\"". (page 2, paragraph 2, line 14)",4
+VoiceOnly_#2,12,"Navigate to page 2, paragraph 4, lines 28-29.",0
+VoiceOnly_#2,13,"Delete from \""It\""  to \""nothing\"". (page 2, paragraph 4, lines 28-29)",1
+VoiceGaze_#2,0,"Navigate to page 1, paragraph 1, line 7",0
+VoiceGaze_#2,1,"Add \""beyond\"" after \""points\"". (page 1, paragraph 1, line 7)",1
+VoiceGaze_#2,2,"Navigate to page 1, paragraph 2, line 10",0
+VoiceGaze_#2,3,"Delete from \""life\"" to \""eternity\"". (page 1, paragraph 2, line 10)",1
+VoiceGaze_#2,4,"Navigate to page 1, paragraph 3, line 14",0
+VoiceGaze_#2,5,"Fix \""representsk\"" to \""represents\"". (page 1, paragraph 3, line 14)",1
+VoiceGaze_#2,6,"Navigate to page 2, paragraph 4, line 20",0
+VoiceGaze_#2,7,"Fix \""strage\"" to \""stage\"". (page 2, paragraph 4, line 20)",1
+VoiceGaze_#2,8,"Navigate to page 2, paragraph 5, line 28",0
+VoiceGaze_#2,9,"Replace \""low\"" to \""high\"". (page 2, paragraph 5, line 28)",1
+VoiceGaze_#2,10,"Navigate to page 2, paragraph 6, line 32",0
+VoiceGaze_#2,11,"Copy from \""after\"" to \""death\"". (page 2, paragraph 6, line 32)",1
+VoiceGaze_#2,12,"Navigate to page 2, paragraph 6, line 36",0
+VoiceGaze_#2,13,"Paste before \""sharp\"". (page 2, paragraph 6, line 36)",1
+VoiceMouse_#2,0,"Navigate to page 1, paragraph 1, line 2",0
+VoiceMouse_#2,1,"Delete from \""and\"" to \""young\"". (page 1, paragraph 1, line 2)",1
+VoiceMouse_#2,2,"Navigate to page 1, paragraph 2, line 5",0
+VoiceMouse_#2,3,"Replace \""woman\"" to \""zebra\"". (page 1, paragraph 2, line 5)",1
+VoiceMouse_#2,4,"Navigate to page 1, paragraph 3, line 8",0
+VoiceMouse_#2,13,"Fix \""trown\"" to \""town\"". (page 1, paragraph 3, line 8)",3
+VoiceMouse_#2,6,"Navigate to page 2, paragraph 4, line 12",0
+VoiceMouse_#2,7,"Add \""small\"" after \""my\"". (page 2, paragraph 4, line 12)",1
+VoiceMouse_#2,8,"Navigate to page 2, paragraph 5, line 16",0
+VoiceMouse_#2,9,"Copy from \""like\"" to \""wife\"". (page 2, paragraph 5, line 16)",1
+VoiceMouse_#2,10,"Navigate to page 2, paragraph 7, line 29",0
+VoiceMouse_#2,11,"Paste before \""Little\"". (page 2, paragraph 7, line 29)",1
+VoiceMouse_#2,12,"Navigate to page 2, paragraph 8, line 33",0
+VoiceMouse_#2,5,"Fix \""understtand\"" to \""understand\"". (page 2, paragraph 8, line 33)",1
+MouseAndKeyboard_#2,0,"Navigate to page 1, paragraph 1, line 4",0
+MouseAndKeyboard_#2,1,"Copy from \""wooden\"" to \""boxes\"". (page 1, paragraph 1, line 4)",1
+MouseAndKeyboard_#2,2,"Navigate to page 1, paragraph 2, line 9",0
+MouseAndKeyboard_#2,3,"Paste after \""paint\"". (page 1, paragraph 2, line 9)",1
+MouseAndKeyboard_#2,4,"Navigate to page 1, paragraph 3, line 13",0
+MouseAndKeyboard_#2,9,"Fix \""gluted\"" to \""glued\"". (page 1, paragraph 3, line 13)",1
+MouseAndKeyboard_#2,6,"Navigate to page 1, paragraph 4, line 17",0
+MouseAndKeyboard_#2,7,"Replace \""yellow\"" to \""blue\"". (page 1, paragraph 4, line 17)",1
+MouseAndKeyboard_#2,8,"Navigate to page 2, paragraph 5, line 20",0
+MouseAndKeyboard_#2,5,"Fix \""Opern\"" to \""Open\"". (page 2, paragraph 5, line 20)",1
+MouseAndKeyboard_#2,10,"Navigate to page 2, paragraph 6, line 23",0
+MouseAndKeyboard_#2,11,"Add \""moment\"" after \""same\"". (page 2, paragraph 6, line 23)",1
+MouseAndKeyboard_#2,12,"Navigate to page 2, paragraph 8, line 32-33",0
+MouseAndKeyboard_#2,13,"Delete from \""How\"" to \""marvelous\"". (page 2, paragraph 8, line 32-33)",1
+VoiceOnly_#3,0,"Navigate to page 1, paragraph 1, line 2.",0
+VoiceOnly_#3,1,"Replace \""once\"" to \""twice\"". (page 1, paragraph 1, line 2)",2
+VoiceOnly_#3,2,"Navigate to page 1, paragraph 2, line 12.",0
+VoiceOnly_#3,3,"Add \""path\"" after \""Oxford\"". ( page 1, paragraph 2, line 12)",2
+VoiceOnly_#3,4,"Navigate to page 1, paragraph 3, line 22.",0
+VoiceOnly_#3,5,"Fix \""cann't\"" to \""can't\"". (page 2, paragraph 3, line 22)",2
+VoiceOnly_#3,6,"Navigate to page 2, paragraph 4, line 30.",0
+VoiceOnly_#3,7,"Copy from \""we\"" to \""shop\"". (page 1, paragraph 4, line 30)",2
+VoiceOnly_#3,8,"Navigate to page 2, paragraph 5, line 35.",0
+VoiceOnly_#3,9,"Paste after \""so\"". (page 2, paragraph 5, line 35)",2
+VoiceOnly_#3,10,"Navigate to page 2, paragraph 6, line 41.",0
+VoiceOnly_#3,11,"Fix \""haat \"" to \""heat\"". (page 2, paragraph 6, line 41)",4
+VoiceOnly_#3,12,"Navigate to page 2, paragraph 7, line 44-45.",0
+VoiceOnly_#3,13,"Delete from \""while\"" to \""in\"". (page 2, paragraph 7, line 44-45)",2
+VoiceGaze_#3,0,"Navigate to page 1, paragraph 1, line 2",0
+VoiceGaze_#3,1,"Fix \""riich\"" to \""rich\"". (page 1, paragraph 1, line 2)",1
+VoiceGaze_#3,2,"Navigate to page 1, paragraph 2, line 7",0
+VoiceGaze_#3,3,"Fix \""mouch\"" to \""much\"". (page 1, paragraph 2, line 7)",3
+VoiceGaze_#3,4,"Navigate to page 1, paragraph 3, line 13-14",0
+VoiceGaze_#3,5,"Copy from \""History\"" to \""volumes\"". (page 1, paragraph 3, line 13-14)",1
+VoiceGaze_#3,6,"Navigate to page 1, paragraph 4, line 16",0
+VoiceGaze_#3,7,"Paste after \""between\"". (page 1, paragraph 4, line 16)",1
+VoiceGaze_#3,8,"Navigate to page 2, paragraph 5, line 22",0
+VoiceGaze_#3,9,"Replace \""wet\"" to \""dry\"". (page 2, paragraph 5, line 22)",1
+VoiceGaze_#3,10,"Navigate to page 2, paragraph 7, line 32",0
+VoiceGaze_#3,11,"Delete from \""make\"" to \""love\"". (page 2, paragraph 7, line 32)",1
+VoiceGaze_#3,12,"Navigate to page 2, paragraph 8, line 34",0
+VoiceGaze_#3,13,"Add \""boy\"" after \""my\"". (page 2, paragraph 8, line 34)",1
+VoiceMouse_#3,0,"Navigate to page 1, paragraph 1, line 2",0
+VoiceMouse_#3,1,"Copy from \""front\"" to \""office\"". (page 1, paragraph 1, line 2)",1
+VoiceMouse_#3,2,"Navigate to page 1, paragraph 2, line 8",0
+VoiceMouse_#3,3,"Paste before \""outside\"". (page 1, paragraph 2, line 8)",1
+VoiceMouse_#3,4,"Navigate to page 1, paragraph 3, line 11",0
+VoiceMouse_#3,5,"Fix \""yourselfa\"" to \""yourself\"". (page 1, paragraph 3, line 11)",1
+VoiceMouse_#3,6,"Navigate to page 1, paragraph 4, line 17",0
+VoiceMouse_#3,7,"Replace \""somebody\"" to \""someone\"". (page 1, paragraph 4, line 17)",1
+VoiceMouse_#3,8,"Navigate to page 2, paragraph 5, line 22",0
+VoiceMouse_#3,9,"Fix \""sheven\"" to \""seven\"". (page 2, paragraph 5, line 22)",3
+VoiceMouse_#3,10,"Navigate to page 2, paragraph 6, line 25-26",0
+VoiceMouse_#3,11,"Delete from \""Jimmy\"" to \""office\"". (page 2, paragraph 6, line 25-26)",1
+VoiceMouse_#3,12,"Navigate to page 2, paragraph 7, line 29",0
+VoiceMouse_#3,13,"Add \""dollar\"" after \""five\"". (page 2, paragraph 7, line 29)",1
+MouseAndKeyboard_#3,0,"Navigate to page 1, paragraph 1, line 3",0
+MouseAndKeyboard_#3,1,"Fix \""namee\"" to \""name\"". (page 1, paragraph 1, line 3)",1
+MouseAndKeyboard_#3,2,"Navigate to page 1, paragraph 2, line 11",0
+MouseAndKeyboard_#3,3,"Add \""power\"" after \""to\"". (page 1, paragraph 2, line 11)",1
+MouseAndKeyboard_#3,4,"Navigate to page 1, paragraph 3, line 14-15",0
+MouseAndKeyboard_#3,5,"Delete from \""meat\"" to \""unusual\"". (page 1, paragraph 3, line 14-15)",1
+MouseAndKeyboard_#3,6,"Navigate to page 2, paragraph 4, line 20",0
+MouseAndKeyboard_#3,7,"Fix \""wtaking\"" to \""taking \"". (page 2, paragraph 4, line 20)",1
+MouseAndKeyboard_#3,8,"Navigate to page 2, paragraph 5, line 23-24",0
+MouseAndKeyboard_#3,9,"Copy from \""after\"" to \""mother\"". (page 2, paragraph 5, line 23-24)",1
+MouseAndKeyboard_#3,10,"Navigate to page 2, paragraph 6, line 26",0
+MouseAndKeyboard_#3,11,"Paste after \""father\"". (page 2, paragraph 6, line 26)",1
+MouseAndKeyboard_#3,12,"Navigate to page 2, paragraph 8, line 35",0
+MouseAndKeyboard_#3,13,"Replace \""old\"" to \""fresh\"". (page 2, paragraph 8, line 35)",1

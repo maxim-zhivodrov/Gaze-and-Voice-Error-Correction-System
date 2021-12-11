@@ -1,0 +1,2 @@
+ExperimentID,MissionID,TextNumber,SystemName,UserID,Event,Timestamp,ActualResult,MissionText,TotalTime,Verdict
+0_VoiceGaze_222222222_27-05-2021,VoiceGaze_#0_0,0,VoiceGaze,222222222,StartMission,2021-05-27 18:04:50,,Navigate to page 1 paragraph 1 line 1

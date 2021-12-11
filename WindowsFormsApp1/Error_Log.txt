@@ -1,0 +1,440 @@
+﻿2020-05-04 13:34:20,604 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-04 13:42:12,959 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-04 16:17:15,814 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-04 16:17:41,355 ERROR ErrorLog: The RPC server is unavailable. (���� �-  HRESULT: 0x800706BA)
+2020-05-04 16:18:26,850 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-04 16:30:00,795 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-04 16:30:25,677 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-04 16:32:34,194 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-04 16:34:30,240 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-04 16:35:19,874 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-04 16:35:41,340 ERROR ErrorLog: The RPC server is unavailable. (���� �-  HRESULT: 0x800706BA)
+2020-05-04 16:36:05,811 ERROR ErrorLog: The RPC server is unavailable. (���� �-  HRESULT: 0x800706BA)
+2020-05-04 16:43:17,699 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-04 16:43:40,693 ERROR ErrorLog: Microsoft cloud Authentication is Wrong
+2020-05-04 16:44:34,025 ERROR ErrorLog: IBM speech to text - connection to Internet faild
+2020-05-04 16:46:20,736 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-04 16:46:36,578 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-04 16:48:10,185 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-04 16:48:39,689 ERROR ErrorLog: The RPC server is unavailable. (���� �-  HRESULT: 0x800706BA)
+2020-05-04 16:48:47,502 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-04 16:50:39,236 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-04 16:52:50,772 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-04 16:56:08,684 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-04 16:59:03,461 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-04 16:59:52,885 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-04 17:19:52,857 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-04 17:20:53,200 ERROR ErrorLog: The RPC server is unavailable. (���� �-  HRESULT: 0x800706BA)
+2020-05-04 17:21:25,150 ERROR ErrorLog: The message filter indicated that the application is busy. (���� �-  HRESULT: 0x8001010A (RPC_E_SERVERCALL_RETRYLATER))
+2020-05-04 17:21:58,012 ERROR ErrorLog: IBM speech to text - connection to Internet faild
+2020-05-04 17:22:04,803 ERROR ErrorLog: The RPC server is unavailable. (���� �-  HRESULT: 0x800706BA)
+2020-05-04 17:23:12,511 ERROR ErrorLog: IBM speech to text - connection to Internet faild
+2020-05-04 17:25:53,482 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-04 17:27:08,096 ERROR ErrorLog: The object invoked has disconnected from its clients. (���� �-  HRESULT: 0x80010108 (RPC_E_DISCONNECTED))
+2020-05-04 17:27:33,836 ERROR ErrorLog: The object invoked has disconnected from its clients. (���� �-  HRESULT: 0x80010108 (RPC_E_DISCONNECTED))
+2020-05-04 17:29:16,272 ERROR ErrorLog: The object invoked has disconnected from its clients. (���� �-  HRESULT: 0x80010108 (RPC_E_DISCONNECTED))
+2020-05-04 17:29:58,852 ERROR ErrorLog: The object invoked has disconnected from its clients. (���� �-  HRESULT: 0x80010108 (RPC_E_DISCONNECTED))
+2020-05-04 17:32:53,413 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-04 17:33:21,091 ERROR ErrorLog: IBM speech to text - connection to Internet faild
+2020-05-04 17:33:28,164 ERROR ErrorLog: The object invoked has disconnected from its clients. (���� �-  HRESULT: 0x80010108 (RPC_E_DISCONNECTED))
+2020-05-04 17:34:18,147 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-04 17:35:02,586 ERROR ErrorLog: The RPC server is unavailable. (���� �-  HRESULT: 0x800706BA)
+2020-05-04 17:35:43,456 ERROR ErrorLog: The RPC server is unavailable. (���� �-  HRESULT: 0x800706BA)
+2020-05-04 17:40:57,284 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-04 17:41:28,416 ERROR ErrorLog: The RPC server is unavailable. (���� �-  HRESULT: 0x800706BA)
+2020-05-04 17:41:52,561 ERROR ErrorLog: The object invoked has disconnected from its clients. (���� �-  HRESULT: 0x80010108 (RPC_E_DISCONNECTED))
+2020-05-04 17:42:17,912 ERROR ErrorLog: The object invoked has disconnected from its clients. (���� �-  HRESULT: 0x80010108 (RPC_E_DISCONNECTED))
+2020-05-04 17:42:35,012 ERROR ErrorLog: The object invoked has disconnected from its clients. (���� �-  HRESULT: 0x80010108 (RPC_E_DISCONNECTED))
+2020-05-04 17:42:52,760 ERROR ErrorLog: IBM speech to text - connection to Internet faild
+2020-05-04 17:43:03,275 ERROR ErrorLog: The RPC server is unavailable. (���� �-  HRESULT: 0x800706BA)
+2020-05-04 17:43:24,947 ERROR ErrorLog: The object invoked has disconnected from its clients. (���� �-  HRESULT: 0x80010108 (RPC_E_DISCONNECTED))
+2020-05-04 17:43:46,522 ERROR ErrorLog: IBM speech to text - connection to Internet faild
+2020-05-04 17:43:54,268 ERROR ErrorLog: The object invoked has disconnected from its clients. (���� �-  HRESULT: 0x80010108 (RPC_E_DISCONNECTED))
+2020-05-04 17:44:54,025 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-04 17:45:23,103 ERROR ErrorLog: The object invoked has disconnected from its clients. (���� �-  HRESULT: 0x80010108 (RPC_E_DISCONNECTED))
+2020-05-04 17:45:42,024 ERROR ErrorLog: The object invoked has disconnected from its clients. (���� �-  HRESULT: 0x80010108 (RPC_E_DISCONNECTED))
+2020-05-04 17:45:57,527 ERROR ErrorLog: The message filter indicated that the application is busy. (���� �-  HRESULT: 0x8001010A (RPC_E_SERVERCALL_RETRYLATER))
+2020-05-04 17:46:27,518 ERROR ErrorLog: The object invoked has disconnected from its clients. (���� �-  HRESULT: 0x80010108 (RPC_E_DISCONNECTED))
+2020-05-04 17:46:48,027 ERROR ErrorLog: The object invoked has disconnected from its clients. (���� �-  HRESULT: 0x80010108 (RPC_E_DISCONNECTED))
+2020-05-04 17:47:02,891 ERROR ErrorLog: The object invoked has disconnected from its clients. (���� �-  HRESULT: 0x80010108 (RPC_E_DISCONNECTED))
+2020-05-04 17:56:12,151 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-04 17:57:01,873 ERROR ErrorLog: The object invoked has disconnected from its clients. (���� �-  HRESULT: 0x80010108 (RPC_E_DISCONNECTED))
+2020-05-04 17:58:22,286 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-04 17:58:52,468 ERROR ErrorLog: The object invoked has disconnected from its clients. (���� �-  HRESULT: 0x80010108 (RPC_E_DISCONNECTED))
+2020-05-04 17:59:14,886 ERROR ErrorLog: The object invoked has disconnected from its clients. (���� �-  HRESULT: 0x80010108 (RPC_E_DISCONNECTED))
+2020-05-04 17:59:35,255 ERROR ErrorLog: The object invoked has disconnected from its clients. (���� �-  HRESULT: 0x80010108 (RPC_E_DISCONNECTED))
+2020-05-04 17:59:57,869 ERROR ErrorLog: The object invoked has disconnected from its clients. (���� �-  HRESULT: 0x80010108 (RPC_E_DISCONNECTED))
+2020-05-04 18:00:17,593 ERROR ErrorLog: The object invoked has disconnected from its clients. (���� �-  HRESULT: 0x80010108 (RPC_E_DISCONNECTED))
+2020-05-04 18:00:32,881 ERROR ErrorLog: The object invoked has disconnected from its clients. (���� �-  HRESULT: 0x80010108 (RPC_E_DISCONNECTED))
+2020-05-04 18:00:43,920 ERROR ErrorLog: The object invoked has disconnected from its clients. (���� �-  HRESULT: 0x80010108 (RPC_E_DISCONNECTED))
+2020-05-04 18:01:13,512 ERROR ErrorLog: The message filter indicated that the application is busy. (���� �-  HRESULT: 0x8001010A (RPC_E_SERVERCALL_RETRYLATER))
+2020-05-04 18:05:19,915 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-04 18:05:53,971 ERROR ErrorLog: The message filter indicated that the application is busy. (���� �-  HRESULT: 0x8001010A (RPC_E_SERVERCALL_RETRYLATER))
+2020-05-04 18:06:20,185 ERROR ErrorLog: The object invoked has disconnected from its clients. (���� �-  HRESULT: 0x80010108 (RPC_E_DISCONNECTED))
+2020-05-04 18:07:05,197 ERROR ErrorLog: The object invoked has disconnected from its clients. (���� �-  HRESULT: 0x80010108 (RPC_E_DISCONNECTED))
+2020-05-04 18:07:24,284 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-04 18:07:57,090 ERROR ErrorLog: The message filter indicated that the application is busy. (���� �-  HRESULT: 0x8001010A (RPC_E_SERVERCALL_RETRYLATER))
+2020-05-04 18:16:36,422 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-04 18:17:03,242 ERROR ErrorLog: The message filter indicated that the application is busy. (���� �-  HRESULT: 0x8001010A (RPC_E_SERVERCALL_RETRYLATER))
+2020-05-04 18:18:29,653 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-04 18:19:00,743 ERROR ErrorLog: The message filter indicated that the application is busy. (���� �-  HRESULT: 0x8001010A (RPC_E_SERVERCALL_RETRYLATER))
+2020-05-04 18:20:02,286 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-04 18:22:52,329 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-04 18:30:20,293 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-04 18:31:36,258 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-04 19:37:15,396 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-04 19:37:32,059 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-05 13:50:13,258 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-05 13:53:29,082 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-05 13:57:10,893 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-05 13:58:10,238 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-05 14:01:42,812 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-05 14:02:43,780 ERROR ErrorLog: Word text editor did not open successfully Command failed
+2020-05-05 14:03:39,609 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-06 13:32:57,989 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-06 14:00:54,725 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-06 14:27:23,076 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-06 14:28:09,393 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-08 09:18:41,553 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-08 13:06:50,124 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-09 11:51:44,786 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-09 11:52:49,179 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-10 17:15:10,261 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-10 17:31:27,140 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-10 17:32:04,460 ERROR ErrorLog: Microsoft cloud Authentication is Wrong
+2020-05-10 17:32:21,397 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-10 17:33:06,946 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-10 17:34:56,364 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-10 17:35:33,822 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-10 17:35:56,905 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-10 18:59:49,588 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-10 19:00:02,309 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-10 19:50:34,264 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-10 19:54:54,563 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-12 12:12:28,782 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-12 12:13:23,804 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-12 12:58:47,472 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-12 14:44:15,701 ERROR ErrorLog: Word text editor did not open successfully ���� ����� �� ���� ���� (Thread).
+2020-05-12 14:54:59,260 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-12 15:11:19,414 ERROR ErrorLog: Hunspell spell checker did not open successfully: ���� ����� �� ���� ���� (Thread).
+2020-05-12 15:14:22,323 ERROR ErrorLog: Word text editor did not open successfully �������, �� ���� ������ ����� �� �����. ��� ��� �����, ���� �� ���� �����? (C:\..\Tests\...\WordTextEditor2.docx)
+2020-05-12 15:15:10,745 ERROR ErrorLog: Word text editor did not open successfully �������, �� ���� ������ ����� �� �����. ��� ��� �����, ���� �� ���� �����? (C:\..\Tests\...\WordTextEditor2.docx)
+2020-05-12 15:18:17,190 ERROR ErrorLog: Word text editor did not open successfully �������, �� ���� ������ ����� �� �����. ��� ��� �����, ���� �� ���� �����? (C:\..\Tests\...\WordTextEditor2.docx)
+2020-05-12 15:41:45,343 ERROR ErrorLog: Word text editor did not open successfully �������, �� ���� ������ ����� �� �����. ��� ��� �����, ���� �� ���� �����? (C:\..\Tests\...\WordTextEditor2.docx)
+2020-05-12 15:44:52,788 ERROR ErrorLog: Word text editor did not open successfully �������, �� ���� ������ ����� �� �����. ��� ��� �����, ���� �� ���� �����? (C:\WINDOWS\...\WordTextEditor2.docx)
+2020-05-12 16:19:07,113 ERROR ErrorLog: �� ���� ����� ���� �� ���� ���� ����� ������ ����.
+��� ����� �� ��������, ���� ���� ����� �� ����� ��� ��� �� ������ ���. (D:\year4\...\WordTextEditor2.docx)
+2020-05-12 16:37:35,516 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-12 16:39:26,617 ERROR ErrorLog: Word text editor did not open successfully ����� ������ ����
+2020-05-12 17:21:41,846 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-12 17:24:31,443 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-12 17:25:38,067 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-12 17:26:36,155 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-12 17:31:34,793 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-12 17:43:58,702 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-12 17:50:05,449 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-13 10:53:44,852 ERROR ErrorLog: Word text editor did not open successfully Sorry, we couldn't find your file. Was it moved, renamed, or deleted? (C:\Users\tomer\...\WordTextEditor2.docx)
+2020-05-13 11:31:59,326 ERROR ErrorLog: Word text editor did not open successfully Sorry, we couldn't find your file. Was it moved, renamed, or deleted? (C:\Users\tomer\...\WordTextEditor2.docx)
+2020-05-13 11:32:03,093 ERROR ErrorLog: Word text editor did not open successfully Sorry, we couldn't find your file. Was it moved, renamed, or deleted? (C:\Users\tomer\...\WordTextEditor2.docx)
+2020-05-13 11:32:06,110 ERROR ErrorLog: Word text editor did not open successfully Sorry, we couldn't find your file. Was it moved, renamed, or deleted? (C:\Users\tomer\...\WordTextEditor2.docx)
+2020-05-13 11:32:09,177 ERROR ErrorLog: Word text editor did not open successfully Sorry, we couldn't find your file. Was it moved, renamed, or deleted? (C:\Users\tomer\...\WordTextEditor2.docx)
+2020-05-13 11:32:14,872 ERROR ErrorLog: Word text editor did not open successfully Sorry, we couldn't find your file. Was it moved, renamed, or deleted? (C:\Users\tomer\...\WordTextEditor2.docx)
+2020-05-13 16:54:54,349 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-13 16:55:48,627 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-13 17:22:04,199 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-13 17:22:55,381 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-13 17:26:31,013 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-13 17:27:13,267 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-13 17:34:34,322 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-13 17:35:14,567 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-13 17:39:16,030 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-13 17:40:02,395 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-13 17:42:21,118 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-13 17:43:09,467 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-13 17:44:11,502 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-13 17:45:00,120 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-13 23:09:49,061 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-13 23:10:39,296 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-13 23:13:16,705 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-13 23:14:04,563 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-13 23:17:34,132 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-13 23:18:22,030 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-13 23:19:46,945 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-13 23:20:27,508 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-13 23:22:58,345 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-13 23:23:43,584 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-23 15:55:12,475 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-23 15:55:48,459 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-23 15:57:05,541 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-23 16:04:10,869 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-23 16:18:49,458 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-23 16:19:05,167 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-23 16:20:02,054 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-23 16:41:55,780 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-23 16:43:20,577 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-23 16:47:09,935 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-23 16:49:10,101 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-23 16:50:20,269 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-24 14:12:34,612 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-24 14:13:26,910 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-24 14:17:48,768 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-24 14:25:27,772 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-24 15:05:56,881 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-24 15:09:07,510 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-24 15:18:05,723 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-24 15:18:28,289 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-24 15:19:05,043 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-24 15:20:45,408 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-24 15:20:57,888 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-24 15:21:24,996 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-24 15:23:39,804 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-24 15:23:56,528 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-24 17:18:19,431 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-24 17:19:05,758 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-24 17:19:39,732 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-24 17:20:33,122 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-24 17:26:52,994 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-24 18:21:20,812 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-24 18:25:23,054 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-24 18:36:55,242 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-24 18:42:13,726 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-24 18:42:31,088 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-24 18:42:48,066 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-24 18:43:03,157 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-24 18:55:42,999 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-24 18:56:04,097 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-24 18:56:30,501 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-24 18:57:00,111 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-24 18:58:10,360 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-24 19:00:46,814 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-24 19:01:08,115 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-24 19:11:19,207 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-24 19:12:53,498 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-24 19:13:30,602 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-24 19:24:18,994 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-24 19:25:05,531 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-24 19:26:22,333 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-24 19:27:16,946 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-24 19:28:34,860 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 15:40:45,533 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 15:43:10,067 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 15:44:23,259 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 15:52:22,877 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 15:53:16,250 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 15:53:46,789 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 15:54:05,227 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 15:54:22,084 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 16:03:27,278 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 16:03:37,567 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 16:04:41,980 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 16:04:59,750 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 16:05:17,843 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 16:05:58,018 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 16:07:50,575 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 16:13:28,150 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 16:14:23,309 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 16:22:31,498 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 16:23:26,498 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 16:24:26,139 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 16:25:20,403 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 16:33:54,549 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 16:34:18,120 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 16:34:37,130 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 16:34:54,450 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 16:35:35,886 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 17:07:04,732 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 17:08:33,852 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 17:09:32,210 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 17:11:20,314 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 17:13:50,645 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 17:16:19,387 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 17:16:44,805 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 17:17:28,698 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 17:18:02,477 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 17:19:29,055 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 17:24:03,348 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 17:24:53,253 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 17:26:26,711 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 17:30:50,335 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 17:37:08,097 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 17:37:41,162 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 17:41:55,535 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 17:45:11,359 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 17:48:41,526 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 17:52:40,560 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 17:54:24,879 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 17:57:12,720 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 17:57:41,902 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 17:58:52,751 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 18:00:44,351 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 18:01:39,629 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 18:04:49,373 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 18:16:02,915 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 18:25:15,672 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 18:25:51,065 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 18:27:24,471 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 18:27:58,369 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 18:44:02,220 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 18:44:57,908 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 18:45:36,852 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 18:45:58,542 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 18:46:55,074 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 18:47:55,765 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 18:48:15,961 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 18:48:32,694 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 18:48:54,263 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 18:49:10,259 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 18:51:32,115 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 18:53:17,049 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 18:53:56,674 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 18:57:52,433 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 18:58:17,450 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 19:04:55,356 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 19:06:03,927 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 19:06:49,461 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 19:09:00,643 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 19:09:19,185 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 19:10:48,848 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 19:16:29,575 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 19:19:08,573 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-27 19:22:36,911 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 19:23:58,122 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-27 19:56:11,270 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 19:56:24,111 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-27 20:02:41,885 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 20:03:16,934 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-27 20:10:01,703 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 20:10:19,184 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-27 20:10:49,862 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 20:11:00,444 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-27 20:14:24,077 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 20:14:45,759 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-27 20:28:21,818 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 20:28:34,523 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-27 20:29:55,083 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 20:30:07,069 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-27 20:30:42,002 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 20:30:52,225 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-27 20:31:26,280 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 20:31:36,126 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-27 20:34:23,940 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-27 20:36:00,726 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 20:36:11,017 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-27 20:37:52,443 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-27 20:40:12,721 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-27 20:43:16,260 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-27 20:43:26,291 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-27 20:48:01,472 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-27 20:49:37,865 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-29 13:59:30,567 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-29 14:04:39,885 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-29 14:06:23,154 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-29 14:08:11,999 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-29 14:08:46,858 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-29 14:11:22,369 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-29 14:12:41,385 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-29 14:13:19,399 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-29 14:13:35,518 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-29 14:15:20,025 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-29 14:15:33,439 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-29 14:16:33,069 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-29 14:18:22,604 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-29 14:18:33,347 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-29 14:19:19,293 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-29 14:19:48,872 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-29 14:20:51,712 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-29 14:21:39,250 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-29 14:21:55,082 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-29 14:22:57,896 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-29 14:25:09,733 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-29 14:25:54,317 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-29 14:26:55,829 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-29 14:27:09,922 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-29 14:27:49,218 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-29 14:28:02,109 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-29 14:28:53,191 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-29 14:29:05,682 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-29 14:29:44,928 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-29 14:30:29,524 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-29 14:30:42,413 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-29 14:38:18,109 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-29 14:38:59,046 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-29 14:40:05,547 ERROR ErrorLog: microsoft speech to text - connection to Internet faild
+2020-05-29 15:10:48,724 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-29 15:11:13,326 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-29 15:12:29,143 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-30 13:35:39,427 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-30 13:35:53,743 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-30 13:46:11,741 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-30 13:46:21,538 ERROR ErrorLog: Hunspell spell checker did not open successfully: Hunspell AMD 64Bit DLL not found: D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\bin\x64\Release\Hunspellx64.dll
+2020-05-30 13:47:54,920 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-05-30 13:48:03,544 ERROR ErrorLog: Hunspell spell checker did not open successfully: Hunspell AMD 64Bit DLL not found: D:\year4\project\EyeGazeProject\EyeGaze\WindowsFormsApp1\bin\x64\Release\Hunspellx64.dll
+2020-05-31 18:28:55,369 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-02 21:13:33,422 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-02 21:14:20,684 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-02 21:26:27,631 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-02 21:30:58,863 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-02 21:39:26,470 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-02 21:46:32,744 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-02 22:10:53,875 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-02 22:12:32,994 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-02 22:15:07,698 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-02 22:20:06,263 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-02 22:37:23,752 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-02 22:41:14,562 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-02 22:51:03,018 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-02 22:56:04,568 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-02 22:57:16,232 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-02 23:14:12,757 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-02 23:17:11,152 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-02 23:18:56,812 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-02 23:19:46,664 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-02 23:21:40,002 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-02 23:26:25,457 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-06 18:22:15,236 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-06 18:27:59,414 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-06 19:01:12,157 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-06 19:02:52,297 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-06 19:05:52,473 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-06 20:21:47,954 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-06 20:26:21,597 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-06 20:30:25,884 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-06 20:35:54,503 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-06 20:39:24,978 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-06 20:41:22,307 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-06 20:44:18,644 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-07 12:00:23,861 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-07 12:06:43,237 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-07 12:12:31,762 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-07 12:14:20,384 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-07 12:16:27,788 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-07 12:24:27,041 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-07 12:27:05,804 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-07 12:38:03,018 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-09 11:02:50,006 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-09 11:09:26,539 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-09 11:12:45,469 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-09 11:14:28,926 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-09 11:15:24,386 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-09 11:15:56,687 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-09 11:16:18,219 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-09 11:17:39,027 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-09 11:19:07,668 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-09 11:22:03,745 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-09 11:22:33,868 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-09 11:24:32,856 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-09 11:48:47,368 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-09 11:51:29,371 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-09 11:57:52,739 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-09 17:34:18,283 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-09 17:41:17,651 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-09 18:10:59,808 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-09 18:18:39,126 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-09 18:20:33,082 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-09 18:22:52,152 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-09 18:25:03,003 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-09 18:26:55,437 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-09 18:33:01,114 INFO ErrorLog: ----------------------Starting System-------------------------
+2020-06-09 18:35:20,117 INFO ErrorLog: Trying to replace all, there are not enough words in the command
+2020-06-09 18:36:59,154 INFO ErrorLog: Trying to replace all, there are not enough words in the command
+2020-06-09 18:37:12,768 INFO ErrorLog: Trying to replace all, there are not enough words in the command

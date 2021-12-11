@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>2.2</version>
+    <title>$title$</title>
+    <authors>BGU Students</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <description>Save Importent Data For Experiment</description>
+    <releaseNotes>with missions voiceGaze and voiceOnly</releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>Experiment WordText Misspellwords</tags>
+  </metadata>
+</package>

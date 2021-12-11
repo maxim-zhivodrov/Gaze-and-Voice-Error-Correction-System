@@ -1,0 +1,15 @@
+D:\LocalReps\final_project\WindowsFormsApp1\obj\Debug\EyeGaze.csprojAssemblyReference.cache
+D:\LocalReps\final_project\WindowsFormsApp1\obj\Debug\EyeGaze.ExperimentForm.resources
+D:\LocalReps\final_project\WindowsFormsApp1\obj\Debug\EyeGaze.ExperimentHelpForm.resources
+D:\LocalReps\final_project\WindowsFormsApp1\obj\Debug\Experiment.Guide.resources
+D:\LocalReps\final_project\WindowsFormsApp1\obj\Debug\Experiment.POPUP.resources
+D:\LocalReps\final_project\WindowsFormsApp1\obj\Debug\EyeGaze.Expr.Properties.Resource1.resources
+D:\LocalReps\final_project\WindowsFormsApp1\obj\Debug\EyeGaze.Expr.Resources.old.Resource1.resources
+D:\LocalReps\final_project\WindowsFormsApp1\obj\Debug\EyeGaze.Expr.Resources.old.Resource2.resources
+D:\LocalReps\final_project\WindowsFormsApp1\obj\Debug\EyeGaze.Frontend.resources
+D:\LocalReps\final_project\WindowsFormsApp1\obj\Debug\EyeGaze.PopUp.resources
+D:\LocalReps\final_project\WindowsFormsApp1\obj\Debug\EyeGaze.PopUpDisappear.resources
+D:\LocalReps\final_project\WindowsFormsApp1\obj\Debug\EyeGaze.suggestionPopup.resources
+D:\LocalReps\final_project\WindowsFormsApp1\obj\Debug\EyeGaze.Properties.Resources.resources
+D:\LocalReps\final_project\WindowsFormsApp1\obj\Debug\EyeGaze.csproj.GenerateResource.cache
+D:\LocalReps\final_project\WindowsFormsApp1\obj\Debug\EyeGaze.csproj.CoreCompileInputs.cache
